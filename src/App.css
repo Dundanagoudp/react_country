@@ -631,3 +631,30 @@ contact us Page ends here
 .btn:hover svg {
   transform: translateX(5px); /* Move icon slightly on hover */
 }
+
+
+/* conatact us button */
+
+.btn1 {
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+  padding: 12px 24px; /* Spacing around the button */
+  border: 2px solid #fff; /* White border */
+  border-radius: 20px; /* Slightly rounded corners */
+  font-size: 16px; /* Font size for readability */
+  font-weight: bold; /* Bold text */
+  letter-spacing: 1px; /* Slightly spaced out letters */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: all 0.3s ease; /* Smooth hover transition */
+}
+
+.btn1:hover {
+  background-color: #fff; /* White background on hover */
+  color: #000; /* Black text on hover */
+  border: 2px solid #000; /* Black border on hover */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Shadow effect */
+}
+
+.btn1:active {
+  transform: scale(0.95); /* Slight shrink on click */
+}

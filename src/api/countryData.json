@@ -1,0 +1,73 @@
+[
+      {
+          "id": 1,
+          "countryName": "India",
+          "capital": "New Delhi",
+          "population": 1380004385,
+          "interestingFact": "India has the world's largest postal network, with over 1.5 lakh post offices."
+      },
+      {
+          "id": 2,
+          "countryName": "Canada",
+          "capital": "Ottawa",
+          "population": 38005238,
+          "interestingFact": "Canada has more lakes than the rest of the world's lakes combined."
+      },
+      {
+          "id": 3,
+          "countryName": "Japan",
+          "capital": "Tokyo",
+          "population": 126476461,
+          "interestingFact": "Japan has a 'Crying Sumo' contest where wrestlers compete to see who can make a baby cry first."
+      },
+      {
+          "id": 4,
+          "countryName": "Australia",
+          "capital": "Canberra",
+          "population": 25687041,
+          "interestingFact": "Australia is home to the world's longest fence, built to keep kangaroos and emus away from crops."
+      },
+      {
+          "id": 5,
+          "countryName": "Brazil",
+          "capital": "Brasília",
+          "population": 212559417,
+          "interestingFact": "Brazil is the only country to have appeared in every World Cup since the tournament began in 1930."
+      },
+      {
+          "id": 6,
+          "countryName": "Egypt",
+          "capital": "Cairo",
+          "population": 102334155,
+          "interestingFact": "Egypt is home to the world's oldest pyramid, the Pyramid of Djoser, built around 2670 BC."
+      },
+      {
+          "id": 7,
+          "countryName": "France",
+          "capital": "Paris",
+          "population": 65273511,
+          "interestingFact": "France was the first country to use the guillotine as a method of execution."
+      },
+      {
+          "id": 8,
+          "countryName": "Italy",
+          "capital": "Rome",
+          "population": 60244639,
+          "interestingFact": "Italy is home to the world's first university, the University of Bologna, founded in 1088."
+      },
+      {
+          "id": 9,
+          "countryName": "Mexico",
+          "capital": "Mexico City",
+          "population": 128932753,
+          "interestingFact": "Mexico introduced chocolate, chilies, and corn to the world."
+      },
+      {
+          "id": 10,
+          "countryName": "Russia",
+          "capital": "Moscow",
+          "population": 145912025,
+          "interestingFact": "Russia has a larger surface area than Pluto."
+      }
+  ]
+  

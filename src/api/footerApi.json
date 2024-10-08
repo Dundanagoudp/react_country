@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "phone", 
+    "title": "Phone",
+    "details": "+91 8830525852"
+  },
+  {
+    "icon": "email", 
+    "title": "Email",
+    "details": "chetanpatil2243@example.com"
+  },
+  {
+    "icon": "address", 
+    "title": "Address",
+    "details": "Bangalore, Karnataka, India"
+  }
+]
