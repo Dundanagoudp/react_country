@@ -27,10 +27,16 @@ export const Country = () => {
     }
     return true; 
   };
+  const filterRegion =(country)=>{
+      if (filter === "all") return country;
+      return country.region === filter;
+  };
 
   const filterCountries = countries.filter((country) => {
-    return searchCountry(country); 
+    return searchCountry(country) && filterRegion(country);
   });
+
+  
 
   return (
     <section className="country-section">
